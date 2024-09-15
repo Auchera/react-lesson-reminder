@@ -1,0 +1,13 @@
+
+.header_container{
+    width: 100%;
+    background: rgb(224,224,224);
+    background: radial-gradient(circle, rgba(224,224,224,1) 0%, rgba(60,60,69,1) 100%); 
+    padding: 30px;
+}
+
+
+.logocl{
+    width: 30%;
+    
+}

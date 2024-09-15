@@ -1,0 +1,20 @@
+
+
+.lessonCard {
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    box-shadow: 0px 0px 10px burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(224, 131, 9, 0.61);
+    
+    
+  }
+  
+
+.lessonCard img{
+    width: 25%;
+}
+

@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.lesson-container{
+  display: flex;
+  justify-content: space-evenly ;
+  align-items:center;
+  gap: 1rem;
+  padding: 1rem;
+  border-top: 2px solid black;
+  flex-wrap: wrap;
+  text-align: center;
+  background-color: rgba(103, 103, 104, 0.116);
+  height: 500px;
+  
+}
+
+.name1{
+  text-align: start;
+}
+
+
+
+body{
+  background: rgb(224,224,224);
+    background: radial-gradient(circle, rgba(224,224,224,1) 0%, rgba(60,60,69,1) 100%); 
+}
